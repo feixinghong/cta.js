@@ -1,3 +1,5 @@
+点击弹出框（全屏或者一部分）
+
 cta.js [![npm version](https://badge.fury.io/js/cta.svg)](http://badge.fury.io/js/cta)
 =====
 *A call to animate, your action-to-effect path*
